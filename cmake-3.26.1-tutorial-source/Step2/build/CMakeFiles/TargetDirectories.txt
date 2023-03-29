@@ -1,0 +1,3 @@
+/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/build/CMakeFiles/rebuild_cache.dir
+/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/build/CMakeFiles/Tutorial.dir
+/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/build/CMakeFiles/edit_cache.dir

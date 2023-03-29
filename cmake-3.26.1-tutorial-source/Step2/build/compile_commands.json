@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/build",
+  "command": "/usr/bin/c++   -I/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/build    -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/tutorial.cxx",
+  "file": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step2/tutorial.cxx"
+}
+]
