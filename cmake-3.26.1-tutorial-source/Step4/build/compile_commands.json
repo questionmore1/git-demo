@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/build",
+  "command": "/usr/bin/c++  -I/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/build -I/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/MathFunctions -std=gnu++11 -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/tutorial.cxx",
+  "file": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/tutorial.cxx",
+  "output": "CMakeFiles/Tutorial.dir/tutorial.cxx.o"
+},
+{
+  "directory": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/build/MathFunctions",
+  "command": "/usr/bin/c++   -std=gnu++11 -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles/MathFunctions.dir/mysqrt.cxx.o -c /home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/MathFunctions/mysqrt.cxx",
+  "file": "/home/cs/workspace/linux/cmake/git-demo/cmake-3.26.1-tutorial-source/Step4/MathFunctions/mysqrt.cxx",
+  "output": "MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o"
+}
+]
